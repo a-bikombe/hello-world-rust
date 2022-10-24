@@ -10,12 +10,6 @@ Hello World using Rust.
 
 ## Getting Started
 
-### Dependencies
-
-No dependencies.
-
-### Setup
-
 - [Install Rust Compiler](https://www.rust-lang.org/tools/install)
 
 - To Build and Run:
