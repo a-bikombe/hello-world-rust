@@ -6,13 +6,11 @@ Hello World using Rust.
 
 ## Used In This Repository
 
-- Rust 1.64.0
+- [Rust Compiler 1.64.0](https://www.rust-lang.org/tools/install)
 
 ## Getting Started
 
-- [Install Rust Compiler](https://www.rust-lang.org/tools/install)
-
-- To Build and Run:
+To Build and Run:
 ```
 rustc hello-world.rs
 ./hello-world
